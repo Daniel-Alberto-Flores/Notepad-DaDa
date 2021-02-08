@@ -1,6 +1,6 @@
 # Notepad-DaDa
 
-<h1>Export files from "Ejecutable Notepad DaDa.rar" to "C:"</h1>
+<h2>Export files from "Ejecutable Notepad DaDa.rar" to "C:"</h2>
 
 <div>
 <p>We can use this for</p>
