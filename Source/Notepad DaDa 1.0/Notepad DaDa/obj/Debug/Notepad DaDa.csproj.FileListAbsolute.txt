@@ -1,0 +1,36 @@
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\bin\Debug\Notepad DaDa.exe
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\bin\Debug\Notepad DaDa.pdb
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\obj\Debug\App.g.cs
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa_MarkupCompile.cache
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa_MarkupCompile.lref
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa.g.resources
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad_DaDa.Properties.Resources.resources
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa.csproj.GenerateResource.cache
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa.exe
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa.pdb
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\obj\Debug\Home.g.cs
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\obj\Debug\Home.baml
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\bin\Debug\System.Data.SQLite.dll
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\bin\Debug\System.Data.SQLite.xml
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa.csproj.CopyComplete
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa.csproj.AssemblyReference.cache
+C:\Users\dflores\source\repos\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa.csproj.CoreCompileInputs.cache
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\bin\Debug\Tareas.db
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\bin\Debug\Notepad DaDa.exe
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\bin\Debug\Notepad DaDa.pdb
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\bin\Debug\System.Data.SQLite.dll
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\bin\Debug\System.Data.SQLite.xml
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\bin\Debug\System.Data.SQLite.dll.config
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa.csproj.AssemblyReference.cache
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\obj\Debug\Home.g.cs
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\obj\Debug\App.g.cs
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa_MarkupCompile.cache
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa_MarkupCompile.lref
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\obj\Debug\Home.baml
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa.g.resources
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad_DaDa.Properties.Resources.resources
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa.csproj.GenerateResource.cache
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa.csproj.CoreCompileInputs.cache
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa.exe
+E:\Totito\Mis Programas\Apps\Back Up Binbaires\Fuente\Notepad DaDa\Notepad DaDa\obj\Debug\Notepad DaDa.pdb
